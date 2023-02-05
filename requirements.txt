@@ -13,3 +13,4 @@ numpy
 matplotlib
 dvc
 boto3
+mlflow
